@@ -1,0 +1,10 @@
+img {
+    width: 700px;
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+
+* {
+    font-family: Century Gothic;
+}
